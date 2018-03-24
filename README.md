@@ -37,3 +37,23 @@ git status
 
 #push local to remote 
 #pull means remote to a local what others are done 
+
+git pull origin 
+
+
+pull request (used for : )
+
+Done working on module we want to review my code someone else PR(Pull Request )Code Reviews
+
+Telling bring all changes assign someone else in commnet it is meeting business requirenments we can merge the code we can merge sign in to master always create a PR
+
+create pull request signin feature description reviewer assign here 
+
+
+
+
+
+
+
+
+
